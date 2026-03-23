@@ -5,12 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/UIScene.unity
+    path: Assets/Scenes/SceneTransition.unity
     guid: 647ced07e143f8b42a80170f6e91cbe1
+  - enabled: 1
+    path: Assets/Scenes/EffectScene.unity
+    guid: 09bff4df43bdb4f4c830ac5a3542ebaf
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 5e716bb9195b9eb49a2ccb4c51691dc6,
       type: 3}
