@@ -14,6 +14,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EffectScene.unity
     guid: 09bff4df43bdb4f4c830ac5a3542ebaf
+  - enabled: 1
+    path: Assets/Scenes/Button.unity
+    guid: 6d71f506d68b7304fbe08db8a04b73e5
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 5e716bb9195b9eb49a2ccb4c51691dc6,
       type: 3}

@@ -446,7 +446,7 @@ GameObject:
   - component: {fileID: 934150458}
   - component: {fileID: 934150459}
   m_Layer: 5
-  m_Name: GameObject
+  m_Name: Group
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -631,6 +631,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1023159792}
+  - component: {fileID: 1023159793}
   m_Layer: 0
   m_Name: ButtonManager
   m_TagString: Untagged
@@ -653,6 +654,22 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1023159793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1023159791}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cacaaed6881c492489dd4eefffe0297b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ButtonMaanger
+  buttonA: {fileID: 989447033}
+  buttonB: {fileID: 1074606857}
+  buttonC: {fileID: 1807900875}
+  buttonD: {fileID: 1114080853}
 --- !u!1 &1051099038
 GameObject:
   m_ObjectHideFlags: 0
