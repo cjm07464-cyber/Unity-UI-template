@@ -54,3 +54,9 @@ DOTween Ease 타입별 클릭 효과를 비교합니다.
 
 - Unity 6 (6000.x)
 - [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676) (무료) — import 후 Setup 필요
+
+
+[에셋 사용]
+- [Cartoon FX Remaster Free] https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-remaster-free-109565 [Free]
+- [2D Game GUI] https://assetstore.unity.com/packages/2d/gui/2d-game-gui-327060 [Free]
+- [Hit Effects FREE] https://assetstore.unity.com/packages/vfx/particles/hit-effects-free-284613 [Free]
